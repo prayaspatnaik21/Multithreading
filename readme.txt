@@ -1,2 +1,2 @@
 Learning C++ Multithreading
-Following Anthony Williams Book (C++ Concurrency in Action)
+Following Anthony Williams's Book (C++ Concurrency in Action)
